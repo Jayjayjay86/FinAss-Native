@@ -45,6 +45,7 @@ Install dependencies:
 
 bash
 Copy code
+
 # Assuming you are using a package manager like npm
 npm install
 Configure the app:
@@ -65,8 +66,8 @@ Screenshots
 Screenshot 1
 Screenshot 2
 
-Contributing
+## Contributing
 Contributions are welcome! If you have any ideas for improvements, new features, or bug fixes, feel free to open an issue or submit a pull request. Please follow our contribution guidelines.
 
-License
+## License
 This project is licensed under the MIT License.
