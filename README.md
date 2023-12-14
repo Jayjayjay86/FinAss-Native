@@ -84,10 +84,10 @@ Screenshot of the settings window:
 Screenshot of the settings window:
 ![Screenshot 2](/photo2.jpg)
 
-Screenshot of the settings window:
+Screenshot of the list all window:
 ![Screenshot 2](/photo3.jpg)
 
-Screenshot of the settings window:
+Screenshot of the analysis window:
 ![Screenshot 2](/photo4.jpg)
 
 ## Contributing
