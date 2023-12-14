@@ -76,9 +76,6 @@ Plan your month ahead with the integrated monthly planner.
 ## Screenshots
 
 Screenshot of the main window:
-![Screenshot 1](/photo.jpg)
-
-Screenshot of the settings window:
 ![Screenshot 2](/photo1.jpg)
 
 Screenshot of the settings window:
