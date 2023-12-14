@@ -74,9 +74,21 @@ Analyze your financial data using the monthly bills overview and graphs.
 Plan your month ahead with the integrated monthly planner.
 
 ## Screenshots
-Screenshot 1: [Placeholder]
 
-Screenshot 2: [Placeholder]
+Screenshot of the main window:
+![Screenshot 1](/photo.png)
+
+Screenshot of the settings window:
+![Screenshot 2](/photo1.png)
+
+Screenshot of the settings window:
+![Screenshot 2](/photo2.png)
+
+Screenshot of the settings window:
+![Screenshot 2](/photo3.png)
+
+Screenshot of the settings window:
+![Screenshot 2](/photo4.png)
 
 ## Contributing
 Contributions are more than welcome! If you have ideas for improvements, new features, or bug fixes, please open an issue or submit a pull request. Kindly follow our contribution guidelines.
